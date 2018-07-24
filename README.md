@@ -1,3 +1,6 @@
 # KPT
-  kpt is text format in new.
-  use it for save translate text.
+  Kpt is text format in new.
+  Use it for save translate text.
+
+# Tip
+  Text don't about me.

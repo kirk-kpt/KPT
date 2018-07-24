@@ -4,3 +4,8 @@
 
 # Tip
   Text don't about me.
+
+# Folder-size
+  small
+  normal
+  big
